@@ -3,7 +3,7 @@
 ## The site is live at -  https://gurpreetkaur-meme-app.netlify.app/
 
 
-### It lets user enter a top and bottom text on a randomly chosen meme image
+### It lets user enter a top and bottom text on a randomly chosen meme image , called from an API
 
 
 
